@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    font-family: cursive;
+    color: white;
+}
+
+body {
+    background-image: url(images/forest-nature-fantasy-scenery-art-uhdpaper.com-4K-8.1374.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Name_header {
+    display: inline-block;
+    position: absolute;
+    margin-left: 12%;
+    top: 2%;
+}
+
+img[src="images/Amir1.jpg"] {
+    width: 80%;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: contain;
+    border-radius: 20%;
+    margin-bottom: 1%;
+}
+
+ul li {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+    float: none;
+    margin: 2% 2%;
+    top: 2%;
+}
+
+a {
+    top: 2%;
+    text-decoration: none;
+    color: purple;
+}
+
+ul {
+    text-align: center;
+    background-color: bisque;
+    top: 10%;
+    color: pink;
+}
+
+.Columns {
+    column-count: 3;
+    column-gap: 2%;
+    column-rule-style: solid;
+    column-width: 1px;
+    text-align: left;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.About_me {
+    margin-top: 0.5%;
+}
+
+img[src="images/Nature.jpg"] {
+    width: 70%;
+    border-radius: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1%;
+    display: block;
+    position: relative;
+    margin-bottom: 1%;
+}
+
+img[src="images/Nature2.jpg"] {
+    width: 70%;
+    border-radius: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1%;
+    display: block;
+    position: relative;
+    margin-bottom: 1%;
+}
+
+.p1 {
+    text-align: center;
+    background-color: bisque;
+    color: purple;
+}
+
+.Name_Header {
+    text-align: center;
+    margin-bottom: 1%;
+    background-color: bisque;
+    color: purple;
+}
+
+img[src="images/BowValley Building.jpg"] {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.sub {
+    display: block;
+    position: relative;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}

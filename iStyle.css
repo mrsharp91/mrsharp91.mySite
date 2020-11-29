@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: burlywood;
+}
+
+sub {
+    display: block;
+    position: relative;
+    text-align: center;
+}

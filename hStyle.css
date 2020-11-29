@@ -1,0 +1,43 @@
+* {
+    font-family: cursive;
+    color: white;
+}
+
+body {
+    background-image: url(images/sunset-horse-scenery-uhdpaper.com-4K-8.1510.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.Title {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 2px solid blanchedalmond;
+    border-collapse: collapse;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[src="images/boilerplate.png"] {
+    border-radius: 100%;
+    display: block;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+sub {
+    display: block;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}

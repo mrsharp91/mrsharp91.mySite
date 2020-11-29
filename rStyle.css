@@ -1,0 +1,71 @@
+* {
+    font-family: cursive;
+    color: aqua;
+}
+
+body {
+    background-image: url(images/digital-art-cube-technology-uhdpaper.com-4K-6.1281.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.info {
+    display: inline-block;
+    position: absolute;
+    margin-left: 25%;
+    top: 9%;
+}
+
+.education {
+    text-align: left;
+}
+
+table,
+th,
+td {
+    border: 2px solid aqua;
+    border-collapse: collapse;
+}
+
+.skills {
+    display: inline-block;
+    position: absolute;
+    margin-left: 75%;
+    top: 40%;
+}
+
+ul li {
+    list-style: none;
+    text-align: left;
+    list-style: upper-roman;
+}
+
+.skill_header {
+    margin-left: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.h_w {
+    text-align: center;
+}
+
+.paragraph {
+    column-count: 3;
+    column-gap: 2%;
+    column-rule-style: solid;
+    column-width: 1px;
+    text-align: left;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.sub {
+    display: block;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 1%;
+}
